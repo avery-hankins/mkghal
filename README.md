@@ -1,6 +1,9 @@
 # Make Ghost Album
 Creates "ghost albums" for use as placeholders in local files storage in apps like Spotify. Running `mkghal` will query you for album/artist name, and a url for the cover art, and create the placeholder in your current directory.
 
+`$ cargo install mkghal`
+
+## Usage
 ```
 Usage: mkghal [OPTIONS]
 
